@@ -1,4 +1,4 @@
-# Escape from alien
+# [Escape from alien](http://escape.erickferreira.ml/)
 Jogo desenvolvido para o SMAUG da fatec.
 
 ## introduction
