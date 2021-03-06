@@ -19,15 +19,15 @@ and just a simple game to pass semester :)
 
 ## Game Menu
 
-![Game Menu](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-menu.png?raw=true)
+![Game Menu](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-menu.PNG?raw=true)
 
 ## Game Fase 1
 
-![Game Fase 1](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-fase1.png?raw=true)
+![Game Fase 1](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-fase1.PNG?raw=true)
 
 ## Game Fase 2
 
-![Game Fase 2](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-fase2.png?raw=true)
+![Game Fase 2](https://github.com/erickferreir4/escape-from-alien/blob/master/assets/images/escape-fase2.PNG?raw=true)
 
 
 
